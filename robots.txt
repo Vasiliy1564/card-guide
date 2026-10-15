@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vasiliy1564.github.io/card-guide/sitemap.xml
